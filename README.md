@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Roldan</h1>
 I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.deuna.com" title="DEUNA">💳 DEUNA</a>  based at 🇺🇸 EEUU Califonia Palo Alto. I arrived as a Flutter Developer 💙 but then I moved to the dark side with GO 😬, now I am part of the backend team where day by day I create 🤪brutal PullRequest🤪 that help contribute to the growth and effective 💳payment solutions💳, I also usually get involved with architecture, you know how to play here for aya and for maracuya 🤣. That is, Lambdas, Databases, Redis, DynamoDB, Proxies, CloudWatch, Secrets Manager, LoadBalancer, 🥵etc 🥵etc 🥵etc 🥵etc
 <img align="right" src="yo.gif" />
+<br/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>💙 I am a co-founder of the Flutter Ecuador community.</li>
@@ -9,31 +10,6 @@ I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.
 <li>🧑‍💻 I am investigating using mixed technologies and areas <br>   💙Flutter + 👨‍⚕️Medicine + 🦿AI.</li>
 <li>✈️ I am traveling throughout LATAM sharing talks, knowledge and experiences.</li>
 </ul>
-
-<br/><br/>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<div width="100%" style="display: flex;">
-  <a href="https://github.com/JeanRoldanDev/FlutterConfLatam" title="FlutterConfLatam">
-    <img style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
-  </a>
-  <a href="https://github.com/JeanRoldanDev/GoogleIOLaPaz" title="GoogleIOLaPaz">
-    <img style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=GoogleIOLaPaz&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">
-  </a>
-</div>
-
-<br/>
-
-
-
-
-
-<br/><br/><br/><br/><br/><br/>
-
-
-
-
 <p align="center">
   <a href="https://twitter.com/JeanRoldanDev" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
@@ -45,3 +21,16 @@ I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
+
+<br/><br/><br/>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" style="display: flex;">
+  <a href="https://github.com/JeanRoldanDev/FlutterConfLatam" title="FlutterConfLatam">
+    <img style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
+  </a>
+  <a href="https://github.com/JeanRoldanDev/GoogleIOLaPaz" title="GoogleIOLaPaz">
+    <img style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=GoogleIOLaPaz&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">
+  </a>
+</div>
+<br/><br/><br/>
