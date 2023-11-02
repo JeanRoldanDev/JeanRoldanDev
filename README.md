@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Roldan</h1>
-I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.deuna.com" title="DEUNA">💳 DEUNA</a>  based at 🇺🇸 EEUU Califonia Palo Alto.
+I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.deuna.com" title="DEUNA">💳 DEUNA</a>  based at 🇺🇸 EEUU Califonia Palo Alto. I arrived as a Flutter Developer 💙 but then I moved to the dark side with GO 😬, now I am part of the backend team where day by day I create 🤪brutal PullRequest🤪 that help contribute to the growth and effective 💳payment solutions💳, I also usually get involved with architecture, you know how to play here for aya and for maracuya 🤣. That is, Lambdas, Databases, Redis, DynamoDB, Proxies, CloudWatch, Secrets Manager, LoadBalancer, 🥵etc 🥵etc 🥵etc 🥵etc
 <img align="right" src="yo.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
