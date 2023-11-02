@@ -9,6 +9,8 @@ I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.
 <li>🧑‍💻 I am investigating using mixed technologies and areas <br>   💙Flutter + 👨‍⚕️Medicine + 🦿AI.</li>
 <li>✈️ I am traveling throughout LATAM sharing talks, knowledge and experiences.</li>
 </ul>
+
+<br/><br/>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
