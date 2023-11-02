@@ -5,7 +5,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-<div width="100%" align="center" style="display: flex;">
+<div width="100%" style="display: flex;">
   <a href="https://github.com/JeanRoldanDev/FlutterConfLatam" title="FlutterConfLatam">
     <img style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
   </a>
@@ -16,14 +16,7 @@
 
 <br/>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/JeanRoldanDev/query_builder" title="QueryBuilder">
-    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=query_builder&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
-  </a>
-  <a align="left" href="https://github.com/JeanRoldanDev/Challenges" title="Challenges">
-    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=Challenges&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">
-  </a>
-</div>
+
 
 
 
