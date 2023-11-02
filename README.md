@@ -4,19 +4,30 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/JeanRoldanDev/FlutterConfLatam" title="FlutterConfLatam">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20"></a>
-  <a align="right" href="https://github.com/JeanRoldanDev/FlutterConfLatam" title="FlutterConfLatam">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20"></a>
+    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
+  </a>
+  <a align="left" href="https://github.com/JeanRoldanDev/GoogleIOLaPaz" title="GoogleIOLaPaz">
+    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=GoogleIOLaPaz&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">
+  </a>
 </div>
 
+<br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/JeanRoldanDev/query_builder" title="QueryBuilder">
+    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=query_builder&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
+  </a>
+  <a align="left" href="https://github.com/JeanRoldanDev/Challenges" title="Challenges">
+    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=Challenges&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">
+  </a>
+</div>
+
+
+
 <br/><br/><br/><br/><br/><br/>
-
-
-
-
-
 
 
 
