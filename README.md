@@ -6,11 +6,11 @@
 <br>
 
 <div width="100%" align="center" style="display: flex;">
-  <a align="left" href="https://github.com/JeanRoldanDev/FlutterConfLatam" title="FlutterConfLatam">
-    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
+  <a href="https://github.com/JeanRoldanDev/FlutterConfLatam" title="FlutterConfLatam">
+    <img style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=FlutterConfLatam&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">  
   </a>
-  <a align="left" href="https://github.com/JeanRoldanDev/GoogleIOLaPaz" title="GoogleIOLaPaz">
-    <img align="center" style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=GoogleIOLaPaz&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">
+  <a href="https://github.com/JeanRoldanDev/GoogleIOLaPaz" title="GoogleIOLaPaz">
+    <img style="width: 450px !important;height: 150px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanRoldanDev&repo=GoogleIOLaPaz&theme=solarized-dark&bg_color=071A2C&border_color=61dafb&border_radius=20">
   </a>
 </div>
 
