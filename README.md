@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jean Roldan</h1>
 I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.deuna.com" title="DEUNA">💳 DEUNA</a>  based at 🇺🇸 EEUU Califonia Palo Alto.
-<h1 align="center">🤫 This site is under construction🥵</h1>
-
-
+<img align="right" src="yo.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>💙 I am a co-founder of the Flutter Ecuador community.</li>
+<li>🦾 Learning about serverless architectures, distributed systems, and a bit of IA..</li>
+<li>☕ I am addicted to coffee.</li>
+</ul>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
