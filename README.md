@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Roldan</h1>
+I'm currently a 👨‍💻 Software Engineer Level III at <a href="https://www.deuna.com" title="DEUNA">💳 DEUNA</a>  based at 🇺🇸 EEUU Califonia Palo Alto.
 <h1 align="center">🤫 This site is under construction🥵</h1>
 
 
